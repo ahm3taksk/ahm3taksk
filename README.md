@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet "Arrow" Dursun</h1>
 <h3 align="center">You have failed this city!</h3>
 
+<img align="center" src="https://i.gifer.com/5sux.gif">
 
 
 <p align="left"> <a href="https://twitter.com/ahmeta_1912" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeta_1912?logo=twitter&style=for-the-badge" alt="ahmeta_1912" /></a> </p>
