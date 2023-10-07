@@ -4,7 +4,7 @@
 <img align="center" src="https://i.gifer.com/5sux.gif">
 
 
-<p align="left"> <a href="https://twitter.com/ahmeta_1912" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeta_1912?logo=twitter&style=for-the-badge" alt="ahmeta_1912" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AhmetA1912" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeta_1912?logo=twitter&style=for-the-badge" alt="AhmetA1912" /></a> </p>
 
 - 🌱 I’m currently learning **Fullstack Web Development (React,NextJS,Tailwind)**
 
