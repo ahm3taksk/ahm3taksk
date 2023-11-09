@@ -94,11 +94,11 @@
 
 <h3 align="left">Statistical Data :-</h3>
 <p>
-    <br><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arrowdev4587&show_icons=true&locale=en&layout=compact" alt="arrowdev4587" /><br>
-    <br><img  src="https://github-readme-stats.vercel.app/api?username=arrowdev4587&show_icons=true&locale=en" alt="arrowdev4587" /><br>
-    <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=arrowdev4587&" alt="arrowdev4587" />
+    <br><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeta1912&show_icons=true&locale=en&layout=compact" alt="ahmeta1912" /><br>
+    <br><img  src="https://github-readme-stats.vercel.app/api?username=ahmeta1912&show_icons=true&locale=en" alt="ahmeta1912" /><br>
+    <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeta1912&" alt="ahmeta1912" />
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrowdev4587" alt="arrowdev4587" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrowdev4587&label=Profile%20views&color=0e75b6&style=flat" alt="arrowdev4587" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmeta1912" alt="ahmeta1912" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeta1912&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeta1912" /> </p>
