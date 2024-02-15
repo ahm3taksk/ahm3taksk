@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet "Arrow" Dursun</h1>
 <h3 align="center">You have failed this city!</h3>
 
-<img align="center" src="https://i.gifer.com/5sux.gif">
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=sgwo9hrvxth37mzrk8ukx11e8&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=sgwo9hrvxth37mzrk8ukx11e8&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 
 <p align="left"> <a href="https://twitter.com/AhmetA1912" target="blank"><img src="https://img.shields.io/twitter/follow/AhmetA1912?logo=twitter&style=for-the-badge" alt="AhmetA1912" /></a> </p>
