@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmet "ahm3taksk" Dursun</h1>
-<h3 align="center">You have failed this city!</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sgwo9hrvxth37mzrk8ukx11e8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 <p align="left"> <a href="https://twitter.com/AhmetA1912" target="blank"><img src="https://img.shields.io/twitter/follow/AhmetA1912?logo=twitter&style=for-the-badge" alt="AhmetA1912" /></a> </p>
 
@@ -92,7 +88,7 @@
 <p>
     <br><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahm3taksk&show_icons=true&locale=en&layout=compact" alt="ahm3taksk" /><br>
     <br><img  src="https://github-readme-stats.vercel.app/api?username=ahm3taksk&show_icons=true&locale=en" alt="ahm3taksk" /><br>
-    <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3taksk2&" alt="ahm3taksk" />
+    <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3taksk&" alt="ahm3taksk" />
 </p>
 
 
