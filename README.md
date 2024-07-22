@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet "m3taksk" Dursun</h1>
+<h1 align="center">Hi 👋, I'm Ahmet "ahm3taksk" Dursun</h1>
 <h3 align="center">You have failed this city!</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sgwo9hrvxth37mzrk8ukx11e8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -48,9 +48,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
     <br>
     <br>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -93,11 +90,11 @@
 
 <h3 align="left">Statistical Data :-</h3>
 <p>
-    <br><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeta1912&show_icons=true&locale=en&layout=compact" alt="ahmeta1912" /><br>
-    <br><img  src="https://github-readme-stats.vercel.app/api?username=ahmeta1912&show_icons=true&locale=en" alt="ahmeta1912" /><br>
-    <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeta1912&" alt="ahmeta1912" />
+    <br><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahm3taksk&show_icons=true&locale=en&layout=compact" alt="ahm3taksk" /><br>
+    <br><img  src="https://github-readme-stats.vercel.app/api?username=ahm3taksk&show_icons=true&locale=en" alt="ahm3taksk" /><br>
+    <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3taksk2&" alt="ahm3taksk" />
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmeta1912" alt="ahmeta1912" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeta1912&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeta1912" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahm3taksk" alt="ahm3taksk" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeta1912&label=Profile%20views&color=0e75b6&style=flat" alt="ahm3taksk" /> </p>
