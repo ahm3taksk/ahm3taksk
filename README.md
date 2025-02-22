@@ -47,11 +47,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm3taksk&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm3taksk&layout=compact&theme=vue-dark" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahm3taksk&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahm3taksk&show_icons=true&theme=vue-dark" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3taksk&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3taksk&theme=vue-dark" alt="GitHub Streak"/>
 </div>
 
 ---
