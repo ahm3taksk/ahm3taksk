@@ -8,10 +8,10 @@
 </p>
 
 ### 🌱 Currently Learning
-- Fullstack Web Development (React, Next.js, Tailwind CSS)
+- NodeJs & Express, Laravel
 
 ### 💬 Ask Me About
-- PHP, C#, .NET Windows Form Projects
+- PHP,React, Next.js, Projects
 
 ### 📫 How to Reach Me
 - **ahm3taksk@gmail.com**
