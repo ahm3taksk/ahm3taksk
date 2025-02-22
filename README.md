@@ -58,7 +58,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahm3taksk&theme=radical" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahm3taksk&theme=vue-dark" alt="GitHub Trophies"/>
 </div>
 
 ---
